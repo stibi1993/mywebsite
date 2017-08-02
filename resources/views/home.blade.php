@@ -15,7 +15,7 @@
         <div class="row">
           <div class="col-md-10">
             My name is Tibor Seres and I am 23 years old
-            former Business IT student after receiving my diploma in this July. I currently live in Budapest and look for a job abroad.
+            former Business IT student after receiving my diploma in this July. I currently live in Budapest. My hobbies are playing music, doing some sports (so many), watching movies and series (more than many), reading and learning different languages and cultures.
           </div>
           <div class="col-md-2">
             <img src="{{URL::asset('/images/me.jpg')}}" alt="profile Pic" height="100" width="100" style="border-radius:5px;">
@@ -74,7 +74,7 @@
     <div id="collapse4" class="panel-collapse collapse">
       <div class="panel-body" style="color:#412C2C">
         <ul>
-          <li class="list-group">2015-2016: E.ON Hungaria Zrt. - IT department: Business developer and cloud infrastructure researcher</li>
+          <li class="list-group">2015-2016: E.ON Hungaria Zrt. - IT department: Business developer and Cloud infrastructure researcher</li>
           <li class="list-group">2017-: SAP Hungary - Cloud Supporting Team: Cloud Delivery Intern & PHP developer</li>
         </ul>
       </div>
