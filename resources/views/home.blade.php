@@ -18,7 +18,7 @@
             former Business IT student after receiving my diploma in this July. I currently live in Budapest and look for a job abroad.
           </div>
           <div class="col-md-2">
-            <img src="{{URL::asset('/images/me.jpg')}}" alt="profile Pic" height="100" width="100">
+            <img src="{{URL::asset('/images/me.jpg')}}" alt="profile Pic" height="100" width="100" style="border-radius:5px;">
           </div>
         </div>
       </div>
@@ -105,7 +105,7 @@
       </h4>
     </div>
     <div id="collapse6" class="panel-collapse collapse">
-      <div class="panel-body" style="color:#412C2C">Well, it sounds weird to say but I'm kind of mixed person. Honestly, I'm not a professional of any above mentioned field but I have a wide spectrum because I know those only a litte but more than beginner. And that represents my general personality too. I really like learning new things and this is the reason why I engage me to many stuffs. If there is something I intrested in then I look for it and always dig deeply in the topic. I think this is important to show enhusiams and faith to our interest and be open to the new fields. Besides, I consider myself as a person who pursue his desire and do everything to reach its goals   </div>
+      <div class="panel-body" style="color:#412C2C">Well, it sounds weird to say but I'm kind of mixed person. Honestly, I'm not a professional of any above mentioned field but I have a wide spectrum even though I know those only a litte but more than beginner. And that represents my general personality too. I really like learning new things and this is the reason why I engage me to many stuffs. If there is something I intrested in then I look for it and always dig deeply in the topic. I think this is important to show enhusiams and faith to our interest and be open to the new fields. Besides, I consider myself as a person who pursue his desire and do everything to reach its goals and searching for challenges to push the limits. :)  </div>
     </div>
   </div>
 </div>
