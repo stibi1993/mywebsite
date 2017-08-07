@@ -24,10 +24,11 @@
           @include('inc.messages')
           @yield('content')
         </div>
-
+        @if(Request::is('/'))
         <div class="col-md-4 col-lg-4">
           @include('inc.sidebar')
         </div>
+        @endif
       </div>
     </div>
 
