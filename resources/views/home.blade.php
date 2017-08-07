@@ -15,7 +15,7 @@
         <div class="row">
           <div class="col-md-10">
             My name is Tibor Seres and I am 23 years old
-            former Business IT student after receiving my diploma in this July. I currently live in Budapest. My hobbies are playing music, doing some sports (so many), watching movies and series (more than many), reading and learning different languages and cultures.
+            former Business IT student after receiving my diploma in this July. I currently live in Budapest. My hobbies are playing music, doing some sports (so many), watching movies and series (more than many), learning different languages and cultures and being a hobby photographer and film maker.
           </div>
           <div class="col-md-2">
             <img src="{{URL::asset('/images/me.jpg')}}" alt="profile Pic" height="100" width="100" style="border-radius:5px;">
@@ -59,7 +59,7 @@
                 <li class="list-group">Not active knowledge: C#, JAVA, Visual Basic, </li>
               </ul>
             <li class="list-group">Graphic & motion design: Photoshop, Premiere Pro, After Effects, Illustrator</li>
-            <li class="list-group">Microsoft Office pack (Excel, Word, Powerpoint) ...of course</li>
+            <li class="list-group">Microsoft Office pack (Excel, Word, Powerpoint)</li>
           </ul>
       </div>
     </div>
