@@ -15,7 +15,7 @@
         <div class="row">
           <div class="col-md-10">
             My name is Tibor Seres and I am 23 years old
-            former Business IT student after receiving my diploma in this July. I currently live in Budapest. My hobbies are playing music, doing some sports (so many), watching movies and series (more than many), learning different languages and cultures and being a hobby photographer and film maker.
+            former Business IT student after receiving my diploma this July. I currently live in Budapest. My hobbies are playing music, doing some sports (so many), watching movies and series (more than many), learning different languages and cultures and being a hobby photographer and film maker.
           </div>
           <div class="col-md-2">
             <img src="{{URL::asset('/images/me.jpg')}}" alt="profile Pic" height="100" width="100" style="border-radius:5px;">
