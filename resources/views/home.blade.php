@@ -92,7 +92,7 @@
         <ul>
           <li class="list-group">English: ECL C1 - Proficiency Certificate </li>
           <li class="list-group">German: Goethe C1 - Proficiency Certificate </li>
-          <li class="list-group">Spanish: Corvinus B2 - Professional economy science related language </li>
+          <li class="list-group">Spanish: Corvinus B2 (Economy science related language) - Proficiency Certificate  </li>
         </ul>
       </div>
     </div>
