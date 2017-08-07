@@ -105,7 +105,7 @@
       </h4>
     </div>
     <div id="collapse6" class="panel-collapse collapse">
-      <div class="panel-body" style="color:#412C2C">Well, it sounds weird to say but I'm kind of mixed person. Honestly, I'm not a professional of any above mentioned field but I have a wide spectrum even though I know those only a litte but more than beginner. And that represents my general personality as well. I really like learning new stuffs and luckily I have a wide interest.  If there is something I intrested in then I look for it and always dig deeply in the topic. I think this is important to show enhusiams and passion and be open to the new fields to acquire more skills. Besides, I consider myself as a person who pursues his desire and does everything to reach its goals and searches for challenges to push the limits. :)  </div>
+      <div class="panel-body" style="color:#412C2C">Well, it sounds weird to say but I'm kind of mixed person. Honestly, I'm not a professional of any above mentioned field but I have a wide spectrum even though I know those only a litte but more than a beginner. And that represents my general personality as well. I really like learning new stuffs and luckily I have a wide interest.  If there is something I intrested in then I look for it and always dig deeply in the topic. I think this is important to show enhusiams and passion and be open to the new fields to acquire more skills. Besides, I consider myself as a person who pursues his desire and does everything to reach its goals and searches for challenges to push the limits. :)  </div>
     </div>
   </div>
 </div>
