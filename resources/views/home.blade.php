@@ -57,6 +57,7 @@
                 <li class="list-group-">Advanced active knowledge: Web dev. languages (html5, css3, Javascript, jquery, ), PHP, SQL, MySQL</li>
                 <li class="list-group">Basic active knowledge (currently learning!!): PHP-Python frameworks (Django&Laravel), R,  Backend config (Ruby)</li>
                 <li class="list-group">Not active knowledge: C#, JAVA, Visual Basic, </li>
+                <li class="list-group">Version controll: git, github + heroku </li>
               </ul>
             <li class="list-group">Graphic & motion design: Photoshop, Premiere Pro, After Effects, Illustrator</li>
             <li class="list-group">Microsoft Office pack (Excel, Word, Powerpoint)</li>
